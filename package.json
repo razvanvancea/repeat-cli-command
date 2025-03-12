@@ -1,11 +1,19 @@
 {
   "name": "repeat-cli-command",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple CLI tool to run any command multiple times",
   "main": "index.js",
   "bin": {
     "repeat-cli": "index.js"
   },
   "author": "Razvan Vancea",
-  "license": "MIT"
+  "license": "MIT",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/razvanvancea/repeat-cli-command.git"
+  },
+  "bugs": {
+    "url": "https://github.com/razvanvancea/repeat-cli-command/issues"
+  },
+  "homepage": "https://github.com/razvanvancea/repeat-cli-command#readme"
 }
