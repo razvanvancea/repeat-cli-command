@@ -1,0 +1,11 @@
+{
+  "name": "repeat-cli",
+  "version": "1.0.0",
+  "description": "A simple CLI tool to run any command multiple times",
+  "main": "index.js",
+  "bin": {
+    "repeat-cli": "index.js"
+  },
+  "author": "Razvan Vancea",
+  "license": "MIT"
+}
