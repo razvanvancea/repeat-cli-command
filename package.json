@@ -1,6 +1,6 @@
 {
   "name": "repeat-cli-command",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A simple CLI tool to run any command multiple times",
   "main": "index.js",
   "bin": {
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/razvanvancea/repeat-cli-command/issues"
   },
+  "keywords": [
+		"cli",
+		"retry",
+        "repeat",
+        "flaky",
+        "test"
+	],
   "homepage": "https://github.com/razvanvancea/repeat-cli-command#readme"
 }
