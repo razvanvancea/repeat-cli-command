@@ -5,7 +5,7 @@ const { execSync } = require('child_process');
 const args = process.argv.slice(2);
 
 if (args.length < 2) {
-    console.error("Usage: repeat-cli '<command>' --times=<number>");
+    console.error("Usage: npx repeat-cli-command '<command>' --times=<number>");
     process.exit(1);
 }
 
