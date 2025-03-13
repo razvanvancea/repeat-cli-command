@@ -22,8 +22,5 @@
 		"flaky",
 		"test"
 	],
-	"homepage": "https://github.com/razvanvancea/repeat-cli-command#readme",
-	"devDependencies": {
-		"prettier": "^3.5.3"
-	}
+	"homepage": "https://github.com/razvanvancea/repeat-cli-command#readme"
 }
