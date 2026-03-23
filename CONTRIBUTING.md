@@ -6,7 +6,7 @@ Thank you for being willing to contribute!
 
 ## Project setup
 
-1. Navigate to the [testcafe-cli-select GitHub repository](https://github.com/razvanvancea/retry-cli.git)
+1. Navigate to the [repeat-cli-command GitHub repository](https://github.com/razvanvancea/repeat-cli-command)
 2. Click the Fork button to create your copy of the repository
 3. Run `npm install` to install dependencies
 4. Create a branch for your PR with `git checkout -b pr/your-branch-name`
@@ -15,7 +15,7 @@ Thank you for being willing to contribute!
 > pull requests from branches on your fork. To do this, run:
 >
 > ```
-> git remote add upstream https://github.com/razvanvancea/testcafe-cli-select
+> git remote add upstream https://github.com/razvanvancea/repeat-cli-command
 > git fetch upstream
 > git branch --set-upstream-to=upstream/main main
 > ```
@@ -28,7 +28,7 @@ Thank you for being willing to contribute!
 
 ## Support
 
-For open issues, please look into [the open issues](https://github.com/razvanvancea/testcafe-cli-select/issues)
+For open issues, please look into [the open issues](https://github.com/razvanvancea/repeat-cli-command/issues)
 
 Thank you!
 
